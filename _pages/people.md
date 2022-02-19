@@ -2,9 +2,9 @@
 layout: page
 title: People
 permalink: /people/
-description: In our lab, we are working on the following research topics. 
+description: Our Team
 nav: true
-display_categories: [IoT, Software Defined Networks]
+display_categories: [Director, Current, Alumni]
 horizontal: false
 ---
 

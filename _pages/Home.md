@@ -14,9 +14,24 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<p>
+In this lab, we focus on distributed systems, specially IoT, Edge AI, Smart Cities, and Industry 4 topics. 
+We love to implement our ideas and see them working in practice and also let others know and use the results. 
+</p>
+<p>
+	Currently, we implement and test our researches on a 30-node IoT testbed composed of nodes mainly powered by <a href="https://www.nordicsemi.com/">Nordic</a> SoCs. We have also some custom boards with NRF-52833 and BLE tags.
+</p>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/thingy91.jpg" title="Nordic Thingy:91" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/nrf52840.jpg" title="NRF52840 Dev kit" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/nrf52840-dongle.jpg" title="NRF52840-dongle" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Thingy:91 boards, NRF52840 Dev Kits, NRF52840 USB Dongles
+</div>

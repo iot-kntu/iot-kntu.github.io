@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Home
+title: about
 permalink: /
 subtitle: <a href='https://en.ce.kntu.ac.ir/'>Faculty of Computer Engineering</a>
 

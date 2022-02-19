@@ -2,9 +2,9 @@
 layout: page
 title: Research
 permalink: /projects/
-description: Current & past research topics: 
+description: In our lab, we are working on the following research topics: 
 nav: true
-display_categories: [work, fun]
+display_categories: [IoT, Software Defined Networks]
 horizontal: false
 ---
 

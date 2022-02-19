@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://en.ce.kntu.ac.ir/'>Faculty of Computer Engineering</a>
+subtitle: Faculty of Computer Engineering
 
 profile:
   align: right

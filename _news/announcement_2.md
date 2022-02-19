@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Master Defense Session on 22 Feb, 16:00: Reza Sarayloo, "Mitigating inter-piconet interference in Bluetooth Low Energy (BLE) networks Based on Principles of Software-Defined Networks"
+title: Master Defense Session on Tue 22 Feb 16&#5800, Reza Sarayloo, "Mitigating inter-piconet interference in Bluetooth Low Energy (BLE) networks Based on Principles of Software-Defined Networks"
 date: 2022-02-19 17:02:00-0400
 inline: false
 ---

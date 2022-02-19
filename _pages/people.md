@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: People
+permalink: /people/
 description: In our lab, we are working on the following research topics. 
 nav: true
 display_categories: [IoT, Software Defined Networks]

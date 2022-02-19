@@ -2,16 +2,14 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='https://en.ce.kntu.ac.ir/'>Faculty of Computer Engineering</a>
+subtitle: <a href='https://en.ce.kntu.ac.ir/'>Faculty of Computer Engineering</a><br><a href="en.kntu.ac.ir">K. N. Toosi University of Technology</a>
 
 profile:
   align: right
   image: iot.png
   address: >
-<!--     <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Tehran, Iran</p>
- -->
+    <p></p>
+
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page

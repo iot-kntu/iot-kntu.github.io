@@ -2,7 +2,7 @@
 layout: page
 title: Reza Sarayloo
 description: Msc., <br> <b>Mitigating Interpiconet Interference</b>
-img: #assets/img/mine.png
+img: assets/img/sarayloo.jpeg
 importance: 3
 category: Alumni
 ---

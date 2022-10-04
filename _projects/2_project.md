@@ -12,7 +12,7 @@ In this research, we implement various protocols and algorithms for IOT networks
 <ul>
 	<li>"Comparing Timing Protocols on BLE", Mahsa Heidari</li>
 	<li>"Detecting Mobile Nodes in BLE Networks", Samara Alkhafaji </li>
-	<li>"SDN on BLE", Afshin Yousefi</li>
+	<li>"Discovering Topology of a BLE Network", Afshin Yousefi</li>
 	<li>"Implementing An Inter-Piconet Interference Mitigation System in Bluetooth Low Energy (BLE) Networks With A Central Controller", Reza Sarayloo, Feb 2022
 		<br>
 		<a href="https://github.com/iot-kntu/interpiconet-interference">Github Code</a>

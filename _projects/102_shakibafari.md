@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Seyed Zahir Gazavi
+title: MOhsen Shakibafar
 description: PHD
-img: assets/img/ghazavi.jpg
+--img: assets/img/ghazavi.jpg
 importance: 2
 category: PHD
 ---

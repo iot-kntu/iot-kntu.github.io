@@ -29,7 +29,7 @@ We love to implement our ideas and see them working in practice and also let oth
         {% include figure.html path="assets/img/nrf52840.jpg" title="NRF52840 Dev kit" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/nrf52840-dongle.jpg" title="NRF52840-dongle" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/nrf52840-dongle.png" title="NRF52840-dongle" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
